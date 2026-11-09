@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pefp96-web.github.io/sitemap.xml
