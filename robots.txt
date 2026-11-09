@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://pefp96-web.github.io/sitemap.xml
+#DaumWebMasterTool:5882c2c0ab38657941a68a8c17a2d23ae3a45ec106da88b9045c579c7110bc51:Zle7beqbjbws6dh5S5OBww==
