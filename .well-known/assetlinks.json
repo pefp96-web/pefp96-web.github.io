@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.pefp96web.firekit",
+        "sha256_cert_fingerprints": ["97:F9:ED:77:49:22:62:89:B5:61:01:E6:34:29:8D:17:6F:63:33:87:03:72:81:12:EC:EC:FC:2B:36:1D:2E:88"]
+      }
+    }]
